@@ -10,6 +10,5 @@ public class HelloWorld {
         System.out.println(); //empty line
         System.out.println(true); //boolean
         System.out.println(25); //numeric
-        System.err.println("Some error message")
+        System.err.println("Some error message");
     }
-}
