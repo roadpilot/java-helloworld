@@ -9,5 +9,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
         System.out.println(); //empty line
         System.out.println(true); //boolean
+        System.out.println(25); //numeric
     }
 }
